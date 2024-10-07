@@ -1,6 +1,6 @@
 # The Prosperity Public License 3.0.0
 
-Contributor: $name
+Contributor: Tomasz Maciejewski
 
 Source Code: $address
 
