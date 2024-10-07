@@ -2,7 +2,7 @@
 
 Contributor: Tomasz Maciejewski
 
-Source Code: $address
+Source Code: https://github.com/skittle25/adaptive-neural-network/blob/main/main.py
 
 ## Purpose
 
